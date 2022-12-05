@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hai/GitHub/pmc-mobile-app/node_modules/stringee-react-native-chat/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/hai/.gradle/caches/transforms-3/5b825d450dea5c46098891c8787fd305/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/hai/GitHub/pmc-mobile-app/node_modules/stringee-react-native-chat/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/hai/.gradle/caches/transforms-3/5b825d450dea5c46098891c8787fd305/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]
